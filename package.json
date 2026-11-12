@@ -1,0 +1,31 @@
+{
+  "name": "pf03_a1_peredag-mezalberto",
+  "version": "1.0.0",
+  "description": "TDD + Node +CI",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/APG2425/PF03_A1_PeredaG-mezAlberto.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/APG2425/PF03_A1_PeredaG-mezAlberto/issues"
+  },
+  "homepage": "https://github.com/APG2425/PF03_A1_PeredaG-mezAlberto#readme",
+  "devDependencies": {
+    "vitest": "^5.1.0"
+  },
+  "dependencies": {
+    "chalk": "^6.0.1"
+  }
+}

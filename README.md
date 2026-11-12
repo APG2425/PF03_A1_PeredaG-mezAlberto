@@ -1,2 +1,2 @@
 # PF03_A1_PeredaG-mezAlberto
-TDD + Node +CI
+ Proyecto para practicar TDD utilizando Node y CI.
