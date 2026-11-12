@@ -1,4 +1,4 @@
-import { descrivbe, it, expect } from 'vitest';
+import { describe, it, expect } from 'vitest';
 import { esPinValido } from '../src/esPinValido.js';
 
 describe('Función esPinValido', () => {
